@@ -8,11 +8,11 @@ Features of this app-
 *It shows weather report of some famous cities.
 
 If you want to create this website follow these steps-
-# Clone this repository.
-# To get the weather API-
+Clone this repository.
+To get the weather API-
   *Go to rapid API website and create your acouunt.
   *Get any weather API which is free to use and subscibe it.
   *Copy the code snippet from there according to your required language.
-# update the javaScript file according to your requirement.  
+update the javaScript file according to your requirement.  
   
 
