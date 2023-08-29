@@ -7,7 +7,7 @@ It is a web application in which you can find your city weather report and you c
 -With this you can search weather of any city by your choice.
 -It shows weather report of some famous cities.
 
-3If you want to create this website follow these steps-
+#If you want to create this website follow these steps-
 -Clone this repository.
 -To get the weather API-
 --Go to rapid API website and create your acouunt.
